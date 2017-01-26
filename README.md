@@ -1,2 +1,3 @@
-# bootstrap-daterangepicker-without-boostrap
-How to use boostrap-daterangepicker without bootstrap.
+# bootstrap-daterangepicker without bootstrap
+Whenever I need a date or daterange picker I go with boostrap-daterangepicker. Despite the name, it doesn't actually require bootstrap, which is great since I never use bootstrap. You just need to add some extra css.
+
