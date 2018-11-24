@@ -47,8 +47,8 @@ body {
   text-decoration: none;
 }
 
-.daterangepicker .calendar th,
-.daterangepicker .calendar td {
+.daterangepicker .calendar-table th,
+.daterangepicker .calendar-table td {
   min-width: auto;
   padding: 5px 8px;
 }
